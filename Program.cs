@@ -48,6 +48,7 @@ namespace JSONCreator
                 char OnHoliday = Convert.ToChar(Console.ReadLine());
                 if(OnHoliday == 'Y' || OnHoliday == 'y') employee.isOnHoliday = true;
                 else if (OnHoliday == 'N' || OnHoliday == 'n') employee.isOnHoliday = false;
+                else System.Console.WriteLine("Invalid option.");
                 System.Console.WriteLine("What's the yearly gross salary of this employee? (EUR)");
                 employee.salaryGross = Convert.ToInt32(Console.ReadLine());
 
