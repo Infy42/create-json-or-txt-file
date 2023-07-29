@@ -1,0 +1,17 @@
+C:\Users\mis\Desktop\tutorials\csharpshit\bin\Debug\net7.0\jsoncreator.exe
+C:\Users\mis\Desktop\tutorials\csharpshit\bin\Debug\net7.0\jsoncreator.deps.json
+C:\Users\mis\Desktop\tutorials\csharpshit\bin\Debug\net7.0\jsoncreator.runtimeconfig.json
+C:\Users\mis\Desktop\tutorials\csharpshit\bin\Debug\net7.0\jsoncreator.dll
+C:\Users\mis\Desktop\tutorials\csharpshit\bin\Debug\net7.0\jsoncreator.pdb
+C:\Users\mis\Desktop\tutorials\csharpshit\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.csproj.AssemblyReference.cache
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.AssemblyInfoInputs.cache
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.AssemblyInfo.cs
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.csproj.CoreCompileInputs.cache
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.csproj.CopyComplete
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.dll
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\refint\jsoncreator.dll
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.pdb
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\jsoncreator.genruntimeconfig.cache
+C:\Users\mis\Desktop\tutorials\csharpshit\obj\Debug\net7.0\ref\jsoncreator.dll
